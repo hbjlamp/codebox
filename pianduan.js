@@ -25,3 +25,5 @@ var $_GET = (function(){
         return {};
     }
 })();
+
+// say something
